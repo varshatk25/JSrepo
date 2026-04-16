@@ -1,0 +1,19 @@
+
+DAY1----
+Print command, variable- declaration and assignment, arithmetic operation, functions
+
+DAY2----
+FUNCTION- Without Parameter & Without Return, function with parameter and without return type, function with parameter and with return type, Data Types & typeof
+COMPRISON OPerator, Logical OPerator
+
+DAY3----
+CONDITION Statement - If; if-elseif-else; tenary operator
+
+DAY4----
+SWITCH case- with break, without break and with CONDITION
+
+DAY5----
+LOOP- while; FOR (with control statement break and continue)
+
+DAY24----
+ARRAY; Array k do main concept -> Properties and Methods
